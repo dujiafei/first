@@ -1,3 +1,4 @@
 Git is not a version control system
-Git is not free software add
+Git is not free software add handle
 Git has a mutable index called stage one
+Creating a new branch is quick
