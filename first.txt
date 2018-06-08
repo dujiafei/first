@@ -3,4 +3,4 @@ Git is not free software add handle
 Git has a mutable index called stage one po
 Creating a new branch is quick
 Creating a new branch is quick and simple
-a new 
+a new HAD
